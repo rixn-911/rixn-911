@@ -4,13 +4,6 @@
 
 <p align="center">
   <a href="https://github.com/rixn-911"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1100&color=9AA0A6&center=true&vCenter=true&width=620&lines=%24+whoami;rixn;i+read+binaries+the+way+other+people+read+books;nevermore" alt="" /></a>
-</p>
-
-I'm rixn. i work in cyber security, mostly the quiet side of it: taking malware apart, reading code that was never meant to be read, and writing low-level programs in c++, go, python and a little assembly.
-
-i like the layer where software stops pretending. past the ui, past the framework, past the api, there are bytes, memory and syscalls. that's where a program says what it actually does, and it's rarely what it claims to do.
-
-most of my work happens at night, in a lab that is isolated on purpose.
 
 
 ## $ ls ~/languages
